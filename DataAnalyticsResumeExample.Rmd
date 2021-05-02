@@ -1,6 +1,6 @@
 ---
-title: "Kyle Monahan"
-author: Kyle M Monahan
+title: "Nadya Ganem Resume"
+author: Nadya Ganem
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -20,27 +20,33 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i>kyle.monahan@tufts.edu
-- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
-- <i class="fa fa-phone"></i> +1 123-456-7891
+- <i class="fa fa-envelope"></i>nadya.ganem@tufts.edu
+- <i class="fa fa-github"></i> [github.com/nganem/](https://github.com/nganem/)
+- <i class="fa fa-phone"></i> +1 305-321-0367
 
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in running multivariate regression. 
+- Human Factors Design and Research Methods
 
-- List your **key skills**, linked to the job description.
+- Formative and summative usability testing
 
-- Performing **data analysis**, with a focus on engineering models
+- UI/UX Design
 
-- Experienced in **data communication** and client relations
+- Ergonomics
 
-- Wrote production-level **R/Python/Stata/SQL** 
+- Instrucitonal Design
 
-- **Machine Learning** on cloud platforms (AWS)
+- Regulatory advice for medical devices
 
+- Prototyping
 
+- Project Management 
+
+- Adobe Suite
+
+- Languages: English, Spanish and French
 
 
 Disclaimer {#disclaimer}
@@ -55,10 +61,10 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Kyle Monahan {#title}
+Nadya Ganem {#title}
 --------------------------------------------------------------------------------
 
-### Data Analytics student seeking Spring 2020 internship
+### Data Analytics Student Seeking Full-Time Position for September 2021
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -66,20 +72,20 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Tufts University
 
-MS Candidate in Data Analysis
+MS Candidate in Innovation and Management and Human Factors Engineering
 
 Medford, MA
 
-2014--Current
+2020--2021
 
 
 ### Undergraduate University
 
-B.A. in Finance
+B.S. in Human Factors Engineering and International Relations
 
-Troy, NY 
+Medford, MA 
 
-2008--2012
+2016--2020
 
 
 
