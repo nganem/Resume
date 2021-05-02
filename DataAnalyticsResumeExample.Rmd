@@ -79,7 +79,7 @@ Medford, MA
 2020--2021
 
 
-### Undergraduate University
+### Tufts University
 
 B.S. in Human Factors Engineering and International Relations
 
@@ -89,63 +89,56 @@ Medford, MA
 
 
 
-Research Experience {data-icon=flask}
+Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### Research Associate
 
-Tufts University
+Loring Human Factors
+
+Westford, MA
+
+2021--Present
+
+- Human Factors Engineering Consulting for Medical Devices
+- Services include exploratory research, usability testing, ergonomics, UI/UX design, instructional design, regulatory advice, and training.
+
+### Fabrication Assistant
+
+Bray Laboratory at Tufts University
 
 Medford, MA
 
-2014--2019
+2018-2021
 
-- Developed research questions 
-- Provided additional guidance for undergraduate mentors
-
-
+- Conducted usability tests for the website and safety quiz.
+- Trained students and faculty on fabrication machines, such as 3D printers and laser cutters.
+- Designed and manufactured products for both the machine shop and students
 
 Selected Project Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### DATA-200 Foundations of Data Analyics 
+### Patient Monitor Defibrillator User Research
 
 Tufts University
 
 Medford, MA
 
-2016--2018
+2019
 
 <!--::: concise-->
-- Deployed a project which predicted likelihood of house purchase with 89% accuracy on data from Boston in 2019.
-- Iterated the model to select the best approach, given neural net, random forest and logistic regression.
+- Conducted interviews with a firefighter, an ICU nurse and a paramedic.
+- Identified strengths and opportunities for improvement based on user research.
 <!--:::-->
 
-
-
-
-### Other project
+### Formative Usability Report for Blood Glucose System 
 
 Tufts University
 
 Medford, MA
 
-2015 -- 2018
+2019
 
-- Evaluated 
-- Deployed
-- Managed 
-- Use your action verbs! Attend the Crafting Your Data Science Resume workshop by Kyle Monahan
-
-
-
-Selected Presentations {data-icon=comment-alt}
---------------------------------------------------------------------------------
-### DATA-200 Final Project
-Presented a model for housing price detection, and summarized main results and assumptions of the model to my cohort. 
-
-Medford, MA
-
-March 2019
-
-
+- Our team of 4 interviewed blood glucose monitor users to analyze the safety, efficacy and ease of use.
+- Created the test plan and conducted 2 of the interviews with participants from different user groups.
+- Identified users’ challenges with current product and suggested design changes based on the test results.
